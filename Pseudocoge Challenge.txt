@@ -1,0 +1,57 @@
+1. Newton Second Law
+	
+
+	STORE "m" with any value
+	STORE "a" with any value
+	STORE "n" without any value	
+
+	
+	CALCULATED "m" times "a"
+	SET "n" value with calculation result
+	DISPLAY ("resultan gaya:", n)
+
+2. Tahun Kabisat
+	
+	program kabisat
+
+	deklarasi
+
+	STORE "tahun" with any value
+	STORE "n" without any value
+
+	if tahun / 4 , 100 , 400 then
+		DISPLAY tahun kabisat
+		else
+		DISPLAY bukan tahun kabisat
+	end if
+
+3. Laundry Day
+	program laundry
+
+	deklarasi
+	int pakaian
+
+	algoritma
+
+	read pakaian
+	if pakaian>=20 then
+		print mesin cuci menyala
+		else
+		print pakaian kurang 
+	end if
+
+4. Periksa Kuku
+	program periksa_kuku
+
+	deklarasi
+	int kuku
+	
+	algoritma
+	read kuku
+	if kuku=panjang then
+		print guru marah 
+		else
+		print guru memuji 
+	end if
+
+
